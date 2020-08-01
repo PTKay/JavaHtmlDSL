@@ -1,0 +1,7 @@
+.idea
+*.html
+.gradle
+build
+out
+main.iml
+test.iml
